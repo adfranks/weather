@@ -1,3 +1,3 @@
 # Weather App
 
-5 day / 3 hour weather app created with React.
+5 day / 3 hour weather forecast application created with React.
